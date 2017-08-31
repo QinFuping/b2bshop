@@ -1552,3 +1552,6 @@ p.ltext{
     color: #000000;
     font-weight: bold;
 }
+.product-grid-image-s{
+    min-height: 228px;
+}
